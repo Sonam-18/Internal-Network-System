@@ -8,7 +8,7 @@
 
 > This is a simple HTML/CSS/PHP website for a SCP Garry's Mod Server.  
 
-# New Features!
+# New Features Here!
 
   - All file remake and recoded!
   - The website is more faster.
